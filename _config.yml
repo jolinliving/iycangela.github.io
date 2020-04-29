@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: iYC亲子功课
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: 这里是关注海内外家庭教育的原创平台，致力于探索妈妈成长和亲子教育。订阅iYC亲子功课，一起见证彼此的成长。
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars2.githubusercontent.com/u/62046914?s=460&u=e7ddb6e47193aafefd2812538e3b2a5a0bfd5509&v=4
 
 #
 # Flags below are optional
@@ -18,10 +18,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email:jolinliving@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: jolinliving/iycangela.jo
   instagram:
   linkedin:
   pinterest:
